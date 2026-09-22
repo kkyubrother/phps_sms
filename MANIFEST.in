@@ -1,1 +1,2 @@
-include requirements.txt
+include requirements.txt README.md MIGRATION.md
+recursive-include tests *.py
